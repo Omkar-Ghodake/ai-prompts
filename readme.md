@@ -82,5 +82,4 @@ Choose based on intent.
 
 ---
 
-This system is designed to stay **simple, flexible, and practical**.
-
+**That's it!**
