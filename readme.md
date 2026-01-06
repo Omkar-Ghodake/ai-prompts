@@ -1,3 +1,4 @@
+
 ﻿# AI Prompt Library – Quick Guide
 
 This repository contains **structured AI prompts** for software development work such as building features, debugging issues, testing, maintenance, and upgrades.
@@ -82,4 +83,8 @@ Choose based on intent.
 
 ---
 
-**That's it!**
+***Note:** Testing prompts are yet to be added*
+
+---
+
+That's it! **:)**
